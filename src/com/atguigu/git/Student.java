@@ -12,6 +12,7 @@ public class Student {
 		System.out.println("0427----22222");
 		System.out.println("0427----3333333333333");
 		System.out.println("66666666666");
+		System.out.println("7777777777777777");
 	}
 
 }
